@@ -120,7 +120,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e24d0f989e515e246a8776697430a652, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  billboardType: 0
+  billboardType: 1
   lockX: 0
   lockY: 0
   lockZ: 0
